@@ -8,7 +8,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 import static junit.framework.Assert.assertTrue;
 
-public class SearchTest {
+public class AppTest {
     private WebDriver driver;
 
     @Before
